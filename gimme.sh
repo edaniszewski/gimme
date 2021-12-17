@@ -51,7 +51,6 @@ gimme() {
         -r \
         -nH \
         -np \
-        -nv \
         -R "index.html*" \
         -R ".DS_Store,Thumbs.db,thumbcache.db,desktop.ini,_macosx" \
         -P /mount/contents \
